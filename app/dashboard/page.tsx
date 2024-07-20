@@ -6,11 +6,8 @@ function Dashboard() {
   return (
     <div className=''>
       <h1>Dashboard</h1>
-      <div className="absolute top-5 right-5">
       
-        <UserButton/>
-      
-      </div>
+
     </div>
   );
 }
